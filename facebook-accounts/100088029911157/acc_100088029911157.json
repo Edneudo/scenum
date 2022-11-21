@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Karine Linhares",
 	"birthdate": "1988 October 2",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -78,7 +78,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676759871.541218,
+			"expirationDate": 1669597989,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676768939.744315,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zoWUE8kJQrkRhplI.AWWR0mjWSwmb2vDYHsUMitq3gKI.Bjeqsy.lT.AAA.0.0.Bjeqw9.AWVUfHGbDik"
+			"value": "0zoWUE8kJQrkRhplI.AWVu6tQYy7MG2tK8eVAjKQHLBm8.Bjeqsy.lT.AAA.0.0.Bjes-o.AWVULoLhRT4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,21 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668984071899%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669588924,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x712"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668993153519%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.11.2022 01:08 Farm1-3_by_scenum"
+	"lastEventDate": "21.11.2022 01:13 Farm1-3_by_scenum"
 }
