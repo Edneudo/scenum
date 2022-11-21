@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700520912.008146,
+			"expirationDate": 1700534694.588781,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700520912.008159,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "18%3AYX3vJYnhxoEi3Q%3A2%3A1668984920%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676761062.033585,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0sb9k2YtcMAyGFMuw.AWWsNHhR5vHfuHskYQ5TWp14kys.BjerAP.n5.AAA.0.0.BjerDj.AWVUievzCr8"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669590100,
+			"expirationDate": 1669603711,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,6 +78,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1700534694.58883,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "18%3AYX3vJYnhxoEi3Q%3A2%3A1668984920%3A-1%3A-1%3A%3AAcVd9Hdyx6U3yzFAQdK5hQnHYanq15JkzeEQYEJEvw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676774692.58885,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0tV44wjYom6Wp7Us8.AWXvn4wJN1pybikG1jgB_VrnmlM.BjeuYm.n5.AAA.0.0.BjeuYm.AWWUIvTYVFQ"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668985302964%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668998911953%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.11.2022 23:01 Registro01"
+	"lastEventDate": "21.11.2022 02:48 farmDados"
 }
