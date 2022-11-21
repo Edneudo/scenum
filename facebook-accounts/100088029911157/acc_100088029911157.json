@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700519657.541103,
+			"expirationDate": 1700525611.246246,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700519657.541116,
+			"expirationDate": 1700525611.246292,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "34%3Ab1IFR-Ql9t2oFw%3A2%3A1668983660%3A-1%3A-1"
+			"value": "34%3Ab1IFR-Ql9t2oFw%3A2%3A1668983660%3A-1%3A-1%3A%3AAcVNjNyrPzHp_MDWIE4f5c2r4F62gWryrJmeCvCEGA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676759871.541218,
+			"expirationDate": 1676765609.24631,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +87,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zoWUE8kJQrkRhplI.AWWR0mjWSwmb2vDYHsUMitq3gKI.Bjeqsy.lT.AAA.0.0.Bjeqw9.AWVUfHGbDik"
+			"value": "0FbAmT61jipbFoEh4.AWVJGrJvzu814nQeZkV2vPhAyCc.BjesKo.lT.AAA.0.0.BjesKo.AWWUC2oEdsY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1669594646,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,21 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668984071899%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669588924,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x712"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668989851272%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.11.2022 22:42 Registro01"
+	"lastEventDate": "21.11.2022 00:17 farmDados"
 }
