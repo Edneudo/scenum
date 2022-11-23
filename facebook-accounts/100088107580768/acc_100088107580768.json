@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700691606.190883,
+			"expirationDate": 1700764966.324746,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700691606.190895,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "31%3AdWjGJnQA-3ZCtg%3A2%3A1669155615%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676931763.980374,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0GjGEMBrCTgtHwPhS.AWWIgsRPWf7IZDX2yMi9USn-1Vo.BjfUri.19.AAA.0.0.BjfUu0.AWVMo197jyE"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669760826,
+			"expirationDate": 1669833962,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +74,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1034x543"
+			"value": "1366x580"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1700764966.324796,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "31%3AdWjGJnQA-3ZCtg%3A2%3A1669155615%3A-1%3A-1%3A%3AAcXZuj_Yd7M2bEdvOVdVhS5WcW8AwC_VuR4XV9QGzg"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677004969.760767,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Gbms9DwOKzCDS48u.AWWqOwPm_FtC0z0xlt0Im--5_eM.Bjfmmn.19.AAA.0.0.Bjfmmq.AWXd1ePGCvA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669155981687%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669229119436%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.11.2022 18:42 farmDados"
+	"lastEventDate": "23.11.2022 18:46 farmDados"
 }
