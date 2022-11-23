@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700756242.707657,
+			"expirationDate": 1700779218.92997,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669825217,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x752"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700756242.707713,
+			"expirationDate": 1700779218.930098,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +74,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "9%3AxUAKoA1r3Y1EIw%3A2%3A1669151260%3A-1%3A-1%3A%3AAcVCwqHFzuu9mbICr-uTJkEEtvOZTXW6dAVL_5s35w"
+			"value": "9%3AxUAKoA1r3Y1EIw%3A2%3A1669151260%3A-1%3A-1%3A%3AAcW4SvbRBy2_jvRAOqXO_Im2SihC1mVfn2iqnI6DVQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676996241.707738,
+			"expirationDate": 1669849121,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x620"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677020120.841037,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0lMZMULQ6AkcjnGkr.AWW5R9Ke5pBY75UAg2TlV5__Upc.BjfkeT.N4.AAA.0.0.BjfkeT.AWVB42jlgVU"
+			"value": "0H1xPTwcxOe6CKuOX.AWX4vjbJ_sqI37reFZIIEfPRG5U.BjfqFT.N4.AAA.0.0.BjfqTZ.AWU3taKjcAY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669220371224%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669244274270%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.11.2022 22:55 Farm1-3_by_scenum"
+	"lastEventDate": "23.11.2022 22:58 Farm1-3_by_scenum"
 }
