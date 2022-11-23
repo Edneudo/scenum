@@ -39,19 +39,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669757513,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1034x543"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1669756643.282369,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -65,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700687832.282429,
+			"expirationDate": 1700763849.466657,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700687832.28244,
+			"expirationDate": 1669832822,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x580"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1700763849.466716,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "35%3AtaH6D20XZyVQbA%3A2%3A1669151841%3A-1%3A-1"
+			"value": "35%3AtaH6D20XZyVQbA%3A2%3A1669151841%3A-1%3A-1%3A%3AAcUkR6MVRe9YubQ-9DPUZvN8jzM-Bi_PEcP2XqBuOA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676928522.285226,
+			"expirationDate": 1677003848.466744,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Th0HrDF3xWEI8X9R.AWWbJaWRY5edA1D5OUIRtMZeS4E.BjfTwf.k1.AAA.0.0.BjfT8K.AWWlvqdx3jg"
+			"value": "0LbsRO5MeojFZpCbz.AWVCtz0Hh1aRFtNUd9iC_NcIHfk.BjfmVK.k1.AAA.0.0.BjfmVK.AWVg8hQQoe8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669152691027%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669227978610%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.11.2022 18:23 farmDados"
+	"lastEventDate": "23.11.2022 18:27 farmDados"
 }
