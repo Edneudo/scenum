@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Karine Alves",
 	"birthdate": "1982 February 9",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700757265.347481,
+			"expirationDate": 1700783418.655702,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700757265.347519,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "27%3AOtD7PNyD9Y0n3A%3A2%3A1669154996%3A-1%3A-1%3A%3AAcWrRj4XGic5oKAzyRLbmmzH9WcBCNgKy9_m_SYVqw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676997264.347535,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0vlMdvvKK6Xwuhl6U.AWVvQ8pHJ7GCAsSi1VgREHJZDII.BjfkuR.W9.AAA.0.0.BjfkuR.AWXyZUVq1oM"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669826239,
+			"expirationDate": 1669852379,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +74,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "1366x620"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1700783418.655742,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "27%3AOtD7PNyD9Y0n3A%3A2%3A1669154996%3A-1%3A-1%3A%3AAcWxyO5_Ep6s0v09qLgCym4DVBUl5Zh4RgMaKpZgDg"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677023422.236667,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0naDiXAmLW2h1Mzno.AWVH_3lluF83vNAZkuXr9i6U3Mw.BjfrG7.W9.AAA.0.0.BjfrG-.AWVKrzyUmnk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669221416031%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669247575848%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.11.2022 23:50 Farm1-3_by_scenum"
+	"lastEventDate": "23.11.2022 23:53 Farm1-3_by_scenum"
 }
