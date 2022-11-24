@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Orjana Sousa",
 	"birthdate": "1987 September 19",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700760754.878679,
+			"expirationDate": 1700790999.552292,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669829713,
+			"expirationDate": 1669859945,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "1366x620"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700760754.878734,
+			"expirationDate": 1700790999.55234,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3A186OY_8WK8AJnA%3A2%3A1669153228%3A-1%3A-1%3A%3AAcULLyew03AbJnmsgQAjzCzzeUQvskTFzFO5Rxhdvw"
+			"value": "19%3A186OY_8WK8AJnA%3A2%3A1669153228%3A-1%3A-1%3A%3AAcWvIOWk5wXtPuKYYJ2Gq8P_jJCk6b1VF1AUteg4Qg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677000757.849346,
+			"expirationDate": 1677031004.726454,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0C4rQ54bw6ruxCqX3.AWU-ecYvYs9gmMlI3V9ImYeOpsw.Bjflkz.MI.AAA.0.0.Bjflk2.AWWkdFCBWUQ"
+			"value": "0zg0eo1mJQ0ydGGZG.AWW64KJTi0KvFLtfB8NpirWgJW4.Bjfs9Y.MI.AAA.0.0.Bjfs9d.AWUGKny_tyM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669224890156%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669255141282%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "24.11.2022 01:56 Farm1-3_by_scenum"
+	"lastEventDate": "24.11.2022 01:59 Farm1-3_by_scenum"
 }
