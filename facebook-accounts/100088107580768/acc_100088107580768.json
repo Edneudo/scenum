@@ -35,7 +35,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701386387.01157,
+			"expirationDate": 1701560810.917772,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -48,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670455350,
+			"expirationDate": 1670629736,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -57,11 +57,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x620"
+			"value": "1366x580"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701386387.011624,
+			"expirationDate": 1701560810.917824,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -70,11 +70,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "31%3AdWjGJnQA-3ZCtg%3A2%3A1669155615%3A-1%3A-1%3A%3AAcVU427dK5JMA0bSnFrEEvW9dl9--ccYhVihvXfl5Q"
+			"value": "31%3AdWjGJnQA-3ZCtg%3A2%3A1669155615%3A-1%3A-1%3A%3AAcXUFbqaePmaS_THtNm04zj_XHTXLdl51Yk6vzbXwq0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677626396.110648,
+			"expirationDate": 1677800809.917849,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -83,7 +83,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0mCfbhiC3idML1gG8.AWVPKuoAzSaBw7aLCpTw3czLvSk.Bjh-UT.19.AAA.0.0.Bjh-Uc.AWWMIi2BDg0"
+			"value": "0VQR3ESJz27B6yWtl.AWVmUu5miaUzDDDPpWy6z3iVzMo.Bjio5r.19.AAA.0.0.Bjio5r.AWXnW636lkc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -95,8 +95,12 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669850552622%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670024934438%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "02.12.2022 23:46 Farm3-8_by_scenum"
+	"lastEventDate": "02.12.2022 23:48 Farm3-8_by_scenum",
+	"screenname": "Orjana Tavares",
+	"birthdate": "1995 May 10",
+	"country": "Brazil",
+	"isAvatarExists": false
 }
